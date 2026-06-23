@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This Prompt Playbook was developed to provide a reusable AI prompt framework that generates localized tax compliance advisories for MSMEs in Davao City. The system aims to eliminate generic or foreign-centered AI outputs by embedding Philippine tax context, regional business conditions, and practical communication standards into the prompt.
 
