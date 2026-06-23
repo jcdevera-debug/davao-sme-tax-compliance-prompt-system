@@ -106,17 +106,3 @@ The prompt engineering process demonstrated that introducing localized constrain
 This project illustrates how prompt engineering can transform AI into a more reliable communication tool for supporting local government initiatives and regional economic development.
 
 ---
-
-# Repository Structure
-
-```text
-davao-sme-tax-compliance-prompt-system/
-│
-├── README.md
-├── logo.png
-├── screenshots/
-│   ├── prompt-v1.png
-│   ├── prompt-v2.png
-│   ├── prompt-v3.png
-│   └── sample-output.png
-`
