@@ -93,16 +93,6 @@ Many MSMEs in Davao City experience challenges in complying with quarterly tax f
 
 ---
 
-## Generated Asset
-
-> Upload your generated image as **logo.png** to the repository.
-
-```markdown
-![Davao SME Tax Compliance Logo](logo.png)
-```
-
----
-
 ## Design Rationale
 
 The storefront represents local MSMEs operating within Davao City. The tax document symbolizes proper record-keeping and regulatory compliance, while the check mark represents accountability and successful adherence to tax obligations. The minimalist vector style ensures the icon remains readable across reports, presentations, websites, and government communication materials.
@@ -129,22 +119,4 @@ davao-sme-tax-compliance-prompt-system/
 │   ├── prompt-v2.png
 │   ├── prompt-v3.png
 │   └── sample-output.png
-```
-
----
-
-## Technologies Used
-
-- ChatGPT (Prompt Engineering)
-- ChatGPT Image Generation / Canva Magic Media
-- GitHub Markdown
-- GitHub Repository
-
----
-
-## Learning Outcomes
-
-- Designed a reusable AI system prompt for localized government communication.
-- Improved prompt performance through iterative prompt engineering.
-- Applied geographic and policy constraints to produce context-aware AI outputs.
-- Developed a professional GitHub portfolio artifact documenting the prompt engineering workflow.# davao-sme-tax-compliance-prompt-system
+`
